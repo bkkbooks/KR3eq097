@@ -1,0 +1,3010 @@
+canonical_identifier: bkk:krp/KR3eq097/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq097/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學讀書志
+  identifiers:
+    krp: KR3eq097
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq097.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq097_000-jc.yaml, hash: 'sha256:c958da96d3ef6d62b954e80787f1e0f88db1b58ee1ce8eeab323f81007e893fc'}
+  - {seq: 1, filename: KR3eq097_001-jc.yaml, hash: 'sha256:b1eaa4f5c959deca017f56de776ccd3517afefbd56560e507efc307e34688d31'}
+  - {seq: 3, filename: KR3eq097_003-jc.yaml, hash: 'sha256:c2044d3140b4283e3af619701a973f938ef60961cce44e6a49d3b1a83567d1c6'}
+  - {seq: 0, filename: KR3eq097_000-jc.yaml, hash: 'sha256:8a2c174d82e116b18729b1bc7e251d8c126ca223cf2ba9498a5f1c1b1763590d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq097_000-jc.markers.yaml, hash: 'sha256:0dedc638f699285abb4b77a0eb7ef7d1ecdc74734c6752df3ee85fefcde4c16f'}
+  - {seq: 1, role: markers, filename: assets/KR3eq097_001-jc.markers.yaml, hash: 'sha256:f5cc94a402971e9e35df4c3a9f9f5fc257ee1b8bb0a4984b73db19cdfecdc806'}
+  - {seq: 3, role: markers, filename: assets/KR3eq097_003-jc.markers.yaml, hash: 'sha256:1cafe99d899b84a4d961ea4afad655c979ea9f49b1fe75f9b292533d0fe49802'}
+  - {seq: 0, role: markers, filename: assets/KR3eq097_000-jc.markers.yaml, hash: 'sha256:0dedc638f699285abb4b77a0eb7ef7d1ecdc74734c6752df3ee85fefcde4c16f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq097_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 637
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14837
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d6
+    span:
+    - body
+    - 1758
+    - 1774
+  label: 太昊伏羲氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d6d2
+    span:
+    - body
+    - 1763
+    - 1774
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d7
+    span:
+    - body
+    - 1774
+    - 1851
+  label: 炎帝神農氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d7d2
+    span:
+    - body
+    - 1779
+    - 1796
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d7d3
+    span:
+    - body
+    - 1796
+    - 1814
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d7d4
+    span:
+    - body
+    - 1814
+    - 1828
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d7d5
+    span:
+    - body
+    - 1828
+    - 1837
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d7d6
+    span:
+    - body
+    - 1837
+    - 1851
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d8
+    span:
+    - body
+    - 1851
+    - 2534
+  label: 黃帝軒轅氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d8d2
+    span:
+    - body
+    - 1856
+    - 1902
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d8d3
+    span:
+    - body
+    - 1902
+    - 1936
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d8d4
+    span:
+    - body
+    - 1936
+    - 2022
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d8d5
+    span:
+    - body
+    - 2022
+    - 2167
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d8d6
+    span:
+    - body
+    - 2167
+    - 2268
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d8d7
+    span:
+    - body
+    - 2268
+    - 2534
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d9
+    span:
+    - body
+    - 2534
+    - 2553
+  label: 唐高宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d9d2
+    span:
+    - body
+    - 2537
+    - 2553
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d10
+    span:
+    - body
+    - 2553
+    - 3013
+  label: 玄宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d10d2
+    span:
+    - body
+    - 2555
+    - 2567
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d10d3
+    span:
+    - body
+    - 2567
+    - 2580
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d10d4
+    span:
+    - body
+    - 2580
+    - 2582
+  label: 德宗
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d10d5
+    span:
+    - body
+    - 2582
+    - 2596
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d10d6
+    span:
+    - body
+    - 2596
+    - 3013
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d11
+    span:
+    - body
+    - 3013
+    - 3043
+  label: 宋太祖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d11d2
+    span:
+    - body
+    - 3016
+    - 3043
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d12
+    span:
+    - body
+    - 3043
+    - 3058
+  label: 太宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d12d2
+    span:
+    - body
+    - 3045
+    - 3058
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d13
+    span:
+    - body
+    - 3058
+    - 3081
+  label: 仁宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d13d2
+    span:
+    - body
+    - 3060
+    - 3081
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d14
+    span:
+    - body
+    - 3081
+    - 3099
+  label: 神宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d14d2
+    span:
+    - body
+    - 3083
+    - 3097
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d14d3
+    span:
+    - body
+    - 3097
+    - 3099
+  label: 徽宗
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d15
+    span:
+    - body
+    - 3099
+    - 4273
+  label: 宋史藝文志
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d16
+    span:
+    - body
+    - 4273
+    - 4588
+  label: 清高宗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d16d2
+    span:
+    - body
+    - 4276
+    - 4588
+  label: 敕撰醫宗金鑑九十卷
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d17
+    span:
+    - body
+    - 4588
+    - 4626
+  label: 岐伯氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d17d2
+    span:
+    - body
+    - 4591
+    - 4600
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d17d3
+    span:
+    - body
+    - 4600
+    - 4610
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d17d4
+    span:
+    - body
+    - 4610
+    - 4626
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d18
+    span:
+    - body
+    - 4626
+    - 4662
+  label: 雷公氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d18d2
+    span:
+    - body
+    - 4629
+    - 4639
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d18d3
+    span:
+    - body
+    - 4639
+    - 4650
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d18d4
+    span:
+    - body
+    - 4650
+    - 4662
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d19
+    span:
+    - body
+    - 4662
+    - 4665
+  label: 扁鵲氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d20
+    span:
+    - body
+    - 4665
+    - 4686
+  label: 俞拊氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d20d2
+    span:
+    - body
+    - 4668
+    - 4686
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d21
+    span:
+    - body
+    - 4686
+    - 4897
+  label: 桐君氏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d21d2
+    span:
+    - body
+    - 4689
+    - 4699
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d21d3
+    span:
+    - body
+    - 4699
+    - 4897
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d22
+    span:
+    - body
+    - 4897
+    - 5180
+  label: 周秦氏越人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d22d2
+    span:
+    - body
+    - 4902
+    - 4916
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d22d3
+    span:
+    - body
+    - 4916
+    - 4942
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d22d4
+    span:
+    - body
+    - 4942
+    - 4954
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d22d5
+    span:
+    - body
+    - 4954
+    - 5180
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d23
+    span:
+    - body
+    - 5180
+    - 5383
+  label: 無名逸書
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d23d2
+    span:
+    - body
+    - 5184
+    - 5383
+  label: 漢書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d24
+    span:
+    - body
+    - 5383
+    - 5587
+  label: 漢淳于氏意
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d24d2
+    span:
+    - body
+    - 5388
+    - 5400
+  label: 漢書列傳
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d24d3
+    span:
+    - body
+    - 5400
+    - 5587
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d25
+    span:
+    - body
+    - 5587
+    - 6055
+  label: 漢先師張子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d25d2
+    span:
+    - body
+    - 5592
+    - 5622
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d25d3
+    span:
+    - body
+    - 5622
+    - 5638
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d25d4
+    span:
+    - body
+    - 5638
+    - 5663
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d25d5
+    span:
+    - body
+    - 5663
+    - 6055
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d26
+    span:
+    - body
+    - 6055
+    - 6180
+  label: 魏華氏佗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d26d2
+    span:
+    - body
+    - 6059
+    - 6066
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d26d3
+    span:
+    - body
+    - 6066
+    - 6089
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d26d4
+    span:
+    - body
+    - 6089
+    - 6180
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d27
+    span:
+    - body
+    - 6180
+    - 6407
+  label: 魏吳氏普
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d27d2
+    span:
+    - body
+    - 6184
+    - 6191
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d27d3
+    span:
+    - body
+    - 6191
+    - 6201
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d27d4
+    span:
+    - body
+    - 6201
+    - 6407
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d28
+    span:
+    - body
+    - 6407
+    - 6464
+  label: 魏李氏鐺之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d28d2
+    span:
+    - body
+    - 6412
+    - 6428
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d28d3
+    span:
+    - body
+    - 6428
+    - 6464
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d29
+    span:
+    - body
+    - 6464
+    - 7052
+  label: 晉王氏叔和
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d29d2
+    span:
+    - body
+    - 6469
+    - 6476
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d29d3
+    span:
+    - body
+    - 6476
+    - 6485
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d29d4
+    span:
+    - body
+    - 6485
+    - 6508
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d29d5
+    span:
+    - body
+    - 6508
+    - 7052
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d30
+    span:
+    - body
+    - 7052
+    - 7220
+  label: 晉葛氏洪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d30d2
+    span:
+    - body
+    - 7056
+    - 7064
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d30d3
+    span:
+    - body
+    - 7064
+    - 7080
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d30d4
+    span:
+    - body
+    - 7080
+    - 7092
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d30d5
+    span:
+    - body
+    - 7092
+    - 7106
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d30d6
+    span:
+    - body
+    - 7106
+    - 7220
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d31
+    span:
+    - body
+    - 7220
+    - 8250
+  label: 晉皇甫氏謐
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d31d2
+    span:
+    - body
+    - 7225
+    - 7236
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d31d3
+    span:
+    - body
+    - 7236
+    - 7250
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d31d4
+    span:
+    - body
+    - 7250
+    - 7264
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d31d5
+    span:
+    - body
+    - 7264
+    - 8250
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d32
+    span:
+    - body
+    - 8250
+    - 8488
+  label: 宋徐氏叔向
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d32d2
+    span:
+    - body
+    - 8255
+    - 8338
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d32d3
+    span:
+    - body
+    - 8338
+    - 8349
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d32d4
+    span:
+    - body
+    - 8349
+    - 8488
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d33
+    span:
+    - body
+    - 8488
+    - 8649
+  label: 宋徐氏文伯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d33d2
+    span:
+    - body
+    - 8493
+    - 8518
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d33d3
+    span:
+    - body
+    - 8518
+    - 8649
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d34
+    span:
+    - body
+    - 8649
+    - 8746
+  label: 宋徐氏嗣伯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d34d2
+    span:
+    - body
+    - 8654
+    - 8668
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d34d3
+    span:
+    - body
+    - 8668
+    - 8746
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d35
+    span:
+    - body
+    - 8746
+    - 9100
+  label: 魏徐氏之才
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d35d2
+    span:
+    - body
+    - 8751
+    - 8780
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d35d3
+    span:
+    - body
+    - 8780
+    - 8807
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d35d4
+    span:
+    - body
+    - 8807
+    - 9100
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d36
+    span:
+    - body
+    - 9100
+    - 9128
+  label: 梁陶氏弘景
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d36d2
+    span:
+    - body
+    - 9105
+    - 9128
+  label: 梁七錄
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d37
+    span:
+    - body
+    - 9128
+    - 9151
+  label: 隋書經籍志
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d38
+    span:
+    - body
+    - 9151
+    - 9419
+  label: 唐書藝文志
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d39
+    span:
+    - body
+    - 9419
+    - 9729
+  label: 周姚氏僧垣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d39d2
+    span:
+    - body
+    - 9424
+    - 9442
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d39d3
+    span:
+    - body
+    - 9442
+    - 9729
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d40
+    span:
+    - body
+    - 9729
+    - 9760
+  label: 隋巢氏元方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d40d2
+    span:
+    - body
+    - 9734
+    - 9747
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d40d3
+    span:
+    - body
+    - 9747
+    - 9760
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d41
+    span:
+    - body
+    - 9760
+    - 9998
+  label: 國朝四庫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d42
+    span:
+    - body
+    - 9998
+    - 10091
+  label: 隋全氏元起
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d42d2
+    span:
+    - body
+    - 10003
+    - 10013
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d42d3
+    span:
+    - body
+    - 10013
+    - 10023
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d42d4
+    span:
+    - body
+    - 10023
+    - 10091
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d43
+    span:
+    - body
+    - 10091
+    - 10220
+  label: 隋甄氏權
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d43d2
+    span:
+    - body
+    - 10095
+    - 10106
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d43d3
+    span:
+    - body
+    - 10106
+    - 10121
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d43d4
+    span:
+    - body
+    - 10121
+    - 10220
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d44
+    span:
+    - body
+    - 10220
+    - 10312
+  label: 隋甄氏立言
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d44d2
+    span:
+    - body
+    - 10225
+    - 10236
+  label: 隋書經籍志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d44d3
+    span:
+    - body
+    - 10236
+    - 10312
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d45
+    span:
+    - body
+    - 10312
+    - 10648
+  label: 唐孫氏思邈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d45d2
+    span:
+    - body
+    - 10317
+    - 10347
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d45d3
+    span:
+    - body
+    - 10347
+    - 10380
+  label: 宋史藝文志同又有
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d45d4
+    span:
+    - body
+    - 10380
+    - 10648
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d46
+    span:
+    - body
+    - 10648
+    - 10737
+  label: 唐蘇氏敬
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d46d2
+    span:
+    - body
+    - 10652
+    - 10737
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d47
+    span:
+    - body
+    - 10737
+    - 10911
+  label: 唐孟氏詵
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d47d2
+    span:
+    - body
+    - 10741
+    - 10762
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d47d3
+    span:
+    - body
+    - 10762
+    - 10911
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d48
+    span:
+    - body
+    - 10911
+    - 11169
+  label: 唐王氏燾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d48d2
+    span:
+    - body
+    - 10915
+    - 10934
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d48d3
+    span:
+    - body
+    - 10934
+    - 10953
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d48d4
+    span:
+    - body
+    - 10953
+    - 11169
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d49
+    span:
+    - body
+    - 11169
+    - 11254
+  label: 唐陳氏藏器
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d49d2
+    span:
+    - body
+    - 11174
+    - 11185
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d49d3
+    span:
+    - body
+    - 11185
+    - 11254
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d50
+    span:
+    - body
+    - 11254
+    - 11448
+  label: 唐王氏冰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d50d2
+    span:
+    - body
+    - 11258
+    - 11270
+  label: 唐書藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d50d3
+    span:
+    - body
+    - 11270
+    - 11298
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d50d4
+    span:
+    - body
+    - 11298
+    - 11311
+  label: 宋晁氏讀書志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d50d5
+    span:
+    - body
+    - 11311
+    - 11448
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d51
+    span:
+    - body
+    - 11448
+    - 11523
+  label: 宋大氏明
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d51d2
+    span:
+    - body
+    - 11452
+    - 11523
+  label: 嘉祐補註目
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d52
+    span:
+    - body
+    - 11523
+    - 11713
+  label: 宋王氏惟德
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d52d2
+    span:
+    - body
+    - 11528
+    - 11545
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d52d3
+    span:
+    - body
+    - 11545
+    - 11713
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d53
+    span:
+    - body
+    - 11713
+    - 12417
+  label: 宋唐氏慎微
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d53d2
+    span:
+    - body
+    - 11718
+    - 11734
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d53d3
+    span:
+    - body
+    - 11734
+    - 12417
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d54
+    span:
+    - body
+    - 12417
+    - 12554
+  label: 宋孫氏兆
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d54d2
+    span:
+    - body
+    - 12421
+    - 12554
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d55
+    span:
+    - body
+    - 12554
+    - 12740
+  label: 宋韓氏祗和
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d55d2
+    span:
+    - body
+    - 12559
+    - 12740
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d56
+    span:
+    - body
+    - 12740
+    - 12918
+  label: 宋龐氏安時
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d56d2
+    span:
+    - body
+    - 12745
+    - 12760
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d56d3
+    span:
+    - body
+    - 12760
+    - 12773
+  label: 宋晁氏讀書志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d56d4
+    span:
+    - body
+    - 12773
+    - 12918
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d57
+    span:
+    - body
+    - 12918
+    - 13155
+  label: 宋錢氏乙
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d57d2
+    span:
+    - body
+    - 12922
+    - 13155
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d58
+    span:
+    - body
+    - 13155
+    - 13310
+  label: 宋朱氏肱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d58d2
+    span:
+    - body
+    - 13159
+    - 13310
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d59
+    span:
+    - body
+    - 13310
+    - 13561
+  label: 宋成氏無己
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d59d2
+    span:
+    - body
+    - 13315
+    - 13335
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d59d3
+    span:
+    - body
+    - 13335
+    - 13561
+  label: 國朝四庫同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d60
+    span:
+    - body
+    - 13561
+    - 13788
+  label: 宋陳氏師文
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d60d4
+    span:
+    - body
+    - 13570
+    - 13605
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d60d5
+    span:
+    - body
+    - 13605
+    - 13788
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d61
+    span:
+    - body
+    - 13788
+    - 13984
+  label: 宋郭氏雍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d61d2
+    span:
+    - body
+    - 13792
+    - 13984
+  label: 國朝徐氏刻本
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d62
+    span:
+    - body
+    - 13984
+    - 14145
+  label: 宋許氏叔微
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d62d2
+    span:
+    - body
+    - 13989
+    - 14002
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d62d3
+    span:
+    - body
+    - 14002
+    - 14145
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d63
+    span:
+    - body
+    - 14145
+    - 14243
+  label: 宋寇氏宗奭
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d63d2
+    span:
+    - body
+    - 14150
+    - 14243
+  label: 晁氏讀書志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d64
+    span:
+    - body
+    - 14243
+    - 14413
+  label: 宋陳氏言
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d64d2
+    span:
+    - body
+    - 14247
+    - 14258
+  label: 宋史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d64d3
+    span:
+    - body
+    - 14258
+    - 14413
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d65
+    span:
+    - body
+    - 14413
+    - 14539
+  label: 宋陳氏自明
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d65d2
+    span:
+    - body
+    - 14418
+    - 14539
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d66
+    span:
+    - body
+    - 14539
+    - 14702
+  label: 宋張氏杲
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d66d2
+    span:
+    - body
+    - 14543
+    - 14702
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3d67
+    span:
+    - body
+    - 14702
+    - 14837
+  label: 宋楊氏士瀛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq097_jc_001-d3.d67d2
+    span:
+    - body
+    - 14707
+    - 14837
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 14865
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 452
+  label: 金劉氏完素
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d2d2
+    span:
+    - body
+    - 7
+    - 95
+  label: 金史藝文志補
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d2d3
+    span:
+    - body
+    - 95
+    - 452
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d3
+    span:
+    - body
+    - 452
+    - 678
+  label: 金張氏元素
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d3d2
+    span:
+    - body
+    - 457
+    - 481
+  label: 金史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d3d3
+    span:
+    - body
+    - 481
+    - 678
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d4
+    span:
+    - body
+    - 678
+    - 914
+  label: 金張氏從正
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d4d2
+    span:
+    - body
+    - 683
+    - 722
+  label: 金史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d4d3
+    span:
+    - body
+    - 722
+    - 914
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d5
+    span:
+    - body
+    - 914
+    - 1238
+  label: 金李氏杲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d5d2
+    span:
+    - body
+    - 918
+    - 965
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d5d3
+    span:
+    - body
+    - 965
+    - 1238
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d6
+    span:
+    - body
+    - 1238
+    - 1417
+  label: 金羅氏天益
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d6d2
+    span:
+    - body
+    - 1243
+    - 1417
+  label: 明朝刻本
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d7
+    span:
+    - body
+    - 1417
+    - 1665
+  label: 元王氏好古
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d7d2
+    span:
+    - body
+    - 1422
+    - 1464
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d7d3
+    span:
+    - body
+    - 1464
+    - 1665
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d8
+    span:
+    - body
+    - 1665
+    - 1755
+  label: 元朱氏震亨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d8d2
+    span:
+    - body
+    - 1670
+    - 1755
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d9
+    span:
+    - body
+    - 1755
+    - 2091
+  label: 國朝四庫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d10
+    span:
+    - body
+    - 2091
+    - 2096
+  label: 元趙氏以德
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d11
+    span:
+    - body
+    - 2096
+    - 2199
+  label: 民間刻本
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d12
+    span:
+    - body
+    - 2199
+    - 3104
+  label: 元王氏履
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d12d2
+    span:
+    - body
+    - 2203
+    - 2228
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d12d3
+    span:
+    - body
+    - 2228
+    - 3104
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d13
+    span:
+    - body
+    - 3104
+    - 3309
+  label: 元呂氏復
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d14
+    span:
+    - body
+    - 3309
+    - 3500
+  label: 元滑氏壽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d14d2
+    span:
+    - body
+    - 3313
+    - 3377
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d14d3
+    span:
+    - body
+    - 3377
+    - 3500
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d15
+    span:
+    - body
+    - 3500
+    - 3634
+  label: 元倪氏維德
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d15d2
+    span:
+    - body
+    - 3505
+    - 3634
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d16
+    span:
+    - body
+    - 3634
+    - 3741
+  label: 元齊氏德之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d16d2
+    span:
+    - body
+    - 3639
+    - 3650
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d16d3
+    span:
+    - body
+    - 3650
+    - 3741
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d17
+    span:
+    - body
+    - 3741
+    - 4016
+  label: 元危氏亦林
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d17d2
+    span:
+    - body
+    - 3746
+    - 4016
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d18
+    span:
+    - body
+    - 4016
+    - 4144
+  label: 元葛氏乾孫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d18d2
+    span:
+    - body
+    - 4021
+    - 4144
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d19
+    span:
+    - body
+    - 4144
+    - 4314
+  label: 元馬氏宗素
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d19d2
+    span:
+    - body
+    - 4149
+    - 4314
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d20
+    span:
+    - body
+    - 4314
+    - 4501
+  label: 明徐氏用誠
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d20d2
+    span:
+    - body
+    - 4319
+    - 4337
+  label: 元史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d20d3
+    span:
+    - body
+    - 4337
+    - 4351
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d20d4
+    span:
+    - body
+    - 4351
+    - 4501
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d21
+    span:
+    - body
+    - 4501
+    - 4778
+  label: 明戴氏原禮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d21d2
+    span:
+    - body
+    - 4506
+    - 4546
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d21d3
+    span:
+    - body
+    - 4546
+    - 4778
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d22
+    span:
+    - body
+    - 4778
+    - 4988
+  label: 明盛氏寅
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d23
+    span:
+    - body
+    - 4988
+    - 5183
+  label: 明陶氏華
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d23d2
+    span:
+    - body
+    - 4992
+    - 5183
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d24
+    span:
+    - body
+    - 5183
+    - 5263
+  label: 明王氏綸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d24d2
+    span:
+    - body
+    - 5187
+    - 5263
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d25
+    span:
+    - body
+    - 5263
+    - 5396
+  label: 明虞氏搏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d25d2
+    span:
+    - body
+    - 5267
+    - 5284
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d25d3
+    span:
+    - body
+    - 5284
+    - 5396
+  label: 四庫存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d26
+    span:
+    - body
+    - 5396
+    - 5886
+  label: 明薛氏己
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d26d2
+    span:
+    - body
+    - 5400
+    - 5886
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d27
+    span:
+    - body
+    - 5886
+    - 6015
+  label: 明李氏湯卿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d27d2
+    span:
+    - body
+    - 5891
+    - 6015
+  label: 四庫存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d28
+    span:
+    - body
+    - 6015
+    - 6380
+  label: 明王氏肯堂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d28d2
+    span:
+    - body
+    - 6020
+    - 6064
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d28d3
+    span:
+    - body
+    - 6064
+    - 6380
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d29
+    span:
+    - body
+    - 6380
+    - 6621
+  label: 明李氏時珍
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d29d2
+    span:
+    - body
+    - 6385
+    - 6621
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d30
+    span:
+    - body
+    - 6621
+    - 6829
+  label: 明孫氏一奎
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d30d2
+    span:
+    - body
+    - 6626
+    - 6829
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d31
+    span:
+    - body
+    - 6829
+    - 7137
+  label: 明張氏介賓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d31d2
+    span:
+    - body
+    - 6834
+    - 7137
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d32
+    span:
+    - body
+    - 7137
+    - 7372
+  label: 明繆氏希雍
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d32d2
+    span:
+    - body
+    - 7142
+    - 7167
+  label: 明史藝文志
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d32d3
+    span:
+    - body
+    - 7167
+    - 7372
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d33
+    span:
+    - body
+    - 7372
+    - 7682
+  label: 明盧氏之頤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d33d2
+    span:
+    - body
+    - 7377
+    - 7682
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d34
+    span:
+    - body
+    - 7682
+    - 7868
+  label: 明吳氏有性
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d34d2
+    span:
+    - body
+    - 7687
+    - 7868
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d35
+    span:
+    - body
+    - 7868
+    - 8144
+  label: 明劉氏若金
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d36
+    span:
+    - body
+    - 8144
+    - 8351
+  label: 明方氏有執
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d36d2
+    span:
+    - body
+    - 8149
+    - 8351
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d37
+    span:
+    - body
+    - 8351
+    - 8523
+  label: 明周氏子干
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d38
+    span:
+    - body
+    - 8523
+    - 8874
+  label: 明李氏中梓
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d38d2
+    span:
+    - body
+    - 8528
+    - 8874
+  label: 四庫存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d39
+    span:
+    - body
+    - 8874
+    - 9170
+  label: 國朝張氏志聰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d40
+    span:
+    - body
+    - 9170
+    - 9569
+  label: 國朝喻氏昌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d40d2
+    span:
+    - body
+    - 9175
+    - 9569
+  label: 國朝四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d41
+    span:
+    - body
+    - 9569
+    - 9763
+  label: 國朝程氏林
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d41d2
+    span:
+    - body
+    - 9574
+    - 9763
+  label: 四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d42
+    span:
+    - body
+    - 9763
+    - 10480
+  label: 國朝張氏璐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d42d2
+    span:
+    - body
+    - 9768
+    - 10480
+  label: 四庫存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d43
+    span:
+    - body
+    - 10480
+    - 10715
+  label: 國朝陳氏士鐸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d43d2
+    span:
+    - body
+    - 10486
+    - 10715
+  label: 四庫存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d44
+    span:
+    - body
+    - 10715
+    - 10851
+  label: 國朝戴氏天章
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d45
+    span:
+    - body
+    - 10851
+    - 10956
+  label: 國朝魏氏荔彤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d46
+    span:
+    - body
+    - 10956
+    - 11335
+  label: 國朝葉氏桂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d46d2
+    span:
+    - body
+    - 10961
+    - 11335
+  label: 四庫存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d47
+    span:
+    - body
+    - 11335
+    - 11760
+  label: 國朝徐氏大椿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d47d2
+    span:
+    - body
+    - 11341
+    - 11760
+  label: 四庫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d48
+    span:
+    - body
+    - 11760
+    - 12002
+  label: 國朝尤氏怡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d49
+    span:
+    - body
+    - 12002
+    - 12091
+  label: 國朝程氏郊倩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d50
+    span:
+    - body
+    - 12091
+    - 12744
+  label: 國朝黃氏元御
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4.d50d2
+    span:
+    - body
+    - 12097
+    - 12744
+  label: 四庫全書存目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d51
+    span:
+    - body
+    - 12744
+    - 12945
+  label: 國朝柯氏琴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d52
+    span:
+    - body
+    - 12945
+    - 14074
+  label: 國朝沈氏金鰲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d53
+    span:
+    - body
+    - 14074
+    - 14597
+  label: 國朝陳氏念祖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq097_jc_003-d4d54
+    span:
+    - body
+    - 14597
+    - 14865
+  label: 國朝鄒氏澍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq097_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 221
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:512e0ce1cea4b3a0a89362ac7d7b6e21c4655a073a3fbe63fcc96f984b488c59
